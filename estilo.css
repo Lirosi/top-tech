@@ -31,14 +31,14 @@
 
 p {font-size: 1em;padding: 13px;}
 
-#menu {background-color: white;}
+#menu {background-color: white;text-align:center;}
 
 #menu ul { 
 	list-style: none;
 	margin: 0;
 	padding: 0;}
 
-#menu ul li {display: inline-block;text-align:center;}
+#menu ul li {display: inline-block;}
 
 #menu ul li a{
 	color:red;
