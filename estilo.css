@@ -1,0 +1,52 @@
+*{font-family: 'Inconsolata', monospace; overflow: auto;}
+
+.h1titulo-index {font-size: 20px;text-align: center; color: red;}
+.h1titulo-index {font-size: 2em;color: red;}
+
+.h2titulo-hardware {font-size: 2em;text-align: center; color: red;}
+.h1titulo-gaming {font-size: 2em;text-align: center;color: red;}
+.h2titulo-mundocrypto {font-size: 2em;text-align: center;color: red;}
+.contact {color: red;text-align: center;}
+
+.inicio{color: red;}
+
+#placab600 {font-size: 20px;}
+#placab600 {font-size: 1.5em;color: red;display: inline-block;padding: 13px;}
+#noticia-corsair {font-size: 1.5em;color: red;padding: 13px;}
+#mountain-sapphire {font-size: 1.5em;padding: 13px;}
+#mobvoi-pro {font-size: 1.5em;color: red;display: inline-block;padding: 13px;}
+#quilmes-btc {font-size: 1.5em;color: red;display: inline-block;padding: 13px;}
+#ucrania-btc {font-size: 1.5em;color: red; display: inline-block;padding: 13px;}
+
+#mountain-sapphire {color: red; display: inline-block;}
+
+.index-corsair {color: red; display: inline-block;padding: 13px;}
+.index-placab660 {color: red; display: inline-block;padding: 13px;}
+.index-btcquilmes {color: red ;display: inline-block;padding: 13px;}
+.index-sapphire {color: red; display: inline-block;padding: 13px;}
+.index-mobvoi {color: red; display: inline-block;padding: 13px;}
+.index-ucrania {color: red; display: inline-block;padding: 13px;}
+
+.caja-corsair {}
+
+p {font-size: 1em;padding: 13px;}
+
+#menu {background-color: white;}
+
+#menu ul { 
+	list-style: none;
+	margin: 0;
+	padding: 0;}
+
+#menu ul li {display: inline-block;}
+
+#menu ul li a{
+	color:red;
+	display: block;
+	padding: 8px 100px;
+	text-decoration: none;}
+
+#menu ul li a:hover {background-color:pink;}
+
+div img {padding: 0px 0px 0px 11px;}
+
